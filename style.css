@@ -1,0 +1,56 @@
+
+
+
+.main{
+  width: 350px;
+    margin: 8%;
+    padding: 10px;
+    background-color:rgba(0, 0, 0, 0.324);
+}
+
+.menu{
+  width: 500px;
+    margin: 10%;
+    padding: 10px;
+    background-color:rgba(250, 133, 252, 0.596);
+}
+
+
+
+#user_name
+{
+   height:25px;
+   width: 130px;
+}
+
+#room_name{
+  width:350px;
+}
+
+
+  #kwitter{
+   font-size:50px;
+   font-family: 'Lucida Sans';
+  }
+
+  #h3_id, #h4_id{
+    color: aliceblue;
+    font-size:15px;
+
+  }
+
+  
+
+  #mg{
+    width: 100px;
+    height: 80px;
+}
+
+#bg{
+  background-image: url("bg2.png") ;
+ 
+ background-size:100%;
+ background-position-y:-67px;
+ backdrop-filter: b;
+ 
+}
